@@ -8,7 +8,7 @@ export default function TotoPage() {
         <h2>
             on dirait que ça marche! :)
         </h2>
-        autre petit test
+        <h3>autre petit test</h3>
         </main>
     );
 }
